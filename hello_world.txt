@@ -1,0 +1,1 @@
+Added some contents to this file for the testing / practice of Git (from TOP curriculum)
